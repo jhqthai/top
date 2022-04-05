@@ -4,8 +4,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 HTML Validator.  
 https://validator.w3.org/  
 
+Flask guide. Good info regarding python virtualenv
+https://www.youtube.com/watch?v=Z1RJmh_OqeA
+
 # CSS Foundation
 ## Selectors
 `*` Universal selector 
 `.` Class selector
 `#` ID selector
+
