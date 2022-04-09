@@ -1,4 +1,22 @@
 * {
+    background-color: #FDFCF8;
     font-family: Papyrus, Arial, Helvetica, sans-serif;
     text-align: center;
+    list-style-position: inside;
 }
+
+img {
+    height: auto;
+    width: 80%;
+}
+button, div, p {
+    font-size: large;
+}
+
+.margin {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+

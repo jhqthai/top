@@ -1,8 +1,10 @@
 * {
+    background-color: #FDFCF8;
     font-family: Papyrus, Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
-p {
+p, button {
     font-size: large;
 }
+
